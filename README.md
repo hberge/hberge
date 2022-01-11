@@ -1,5 +1,5 @@
 👋 Hi, I’m Hans Kristian,
-I’m a hardware developer and often work within both analog and digital disciplines. I also do some project management. 
+I work at IDEAS as a integrated circuits hardware developer and I work in both analog and digital disciplines. I also have project management responsibilities. 
 
 <!---
 hberge/hberge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
